@@ -36,7 +36,7 @@ Researchers and practitioners can use these instances to test clustering algorit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/lookalike-clustering.git
+   git clone https://github.com/QUACK-Project/Customer-segmentation-for-banking-use-case.git
    ```
 2. Load an instance file into your clustering framework.
 3. Apply classical or quantum clustering algorithms.
